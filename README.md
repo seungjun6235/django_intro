@@ -62,4 +62,4 @@ def index(request):
 
 ## MTV
 
-![MTV](./assets/MTV.PNG)
+![MTV](./assets/MTV.png)
